@@ -1,0 +1,42 @@
+[
+	{
+		"file": "/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/Source/ToonTanks/BasePawn.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/Source/ToonTanks/BasePawn.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/Source/ToonTanks/ToonTanks.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/Source/ToonTanks/ToonTanks.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/Source/ToonTanks/ToonTanks.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/amirhosseinkhademi/Job/Development/Unreal 5/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	}
+]
